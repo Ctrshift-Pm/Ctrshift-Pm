@@ -1,4 +1,4 @@
-# ⚡💻 Pedro Matheus
+# Pedro Matheus
 
 **`Engenheiro de Software (Desenvolvedor/Estudante)`**
 
