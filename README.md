@@ -2,7 +2,7 @@
 
 **`Engenheiro de Software (Desenvolvedor/Estudante)`**
 
-Sou um Engenheiro de Software movido pela paixão de aprender e evoluir continuamente na área de desenvolvimento. Meus projetos envolvem geralmente a criação de softwares, que são planejados e desenvolvidos do zero para poder resolver questões e problemas reais por meio de código. No momento, estou focado em aprimorar minhas habilidades em Python, e em explorar também novas áreas como Inteligência Artificial, Machine Learning (ML), automação e desenvolvimento web, sempre aplicando boas práticas de programação.
+Sou um Engenheiro de Software movido pela paixão de aprender e evoluir continuamente na área de desenvolvimento. Meus projetos envolvem geralmente a criação de softwares, que são planejados e desenvolvidos do zero para poder resolver questões e problemas reais por meio de código. No momento, estou focado em aprimorar minhas habilidades em Python, e em explorar também novas áreas como Inteligência Artificial, Machine Learning (ML) e automação, sempre aplicando boas práticas de programação.
 
 Sou motivado por minha curiosidade e pela busca constante por inovação e desafios, que impulsionam meu desenvolvimento profissional e me permitem criar e aplicar soluções eficientes e impactantes em cada projeto.
 
@@ -11,7 +11,7 @@ Sou motivado por minha curiosidade e pela busca constante por inovação e desaf
 
 ### 🧰 Linguagens de Programação
 
-[![Linguagens de Programação](https://skillicons.dev/icons?i=python,html,css,js,php)](https://skillicons.dev)
+[![Linguagens de Programação](https://skillicons.dev/icons?i=python,java,html,css,js,php)](https://skillicons.dev)
 <br />
 
 ---
