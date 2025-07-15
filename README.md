@@ -18,10 +18,8 @@ Sou motivado por minha curiosidade e pela busca constante por inovação e desaf
 
 ### 🛠️ Frameworks & Backend
 
-[![Frameworks e Backend](https://skillicons.dev/icons?i=pytorch,mysql,gradle)](https://skillicons.dev) 
+[![Frameworks e Backend](https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,gradle)](https://skillicons.dev) 
 &nbsp;
-<img alt="NumPy" width="45px" style="padding-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> 
-<br />
 
 ---
 
