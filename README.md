@@ -11,7 +11,7 @@ Sou motivado por minha curiosidade e pela busca constante por inovação e desaf
 
 ### 🧰 Linguagens de Programação
 
-[![Linguagens de Programação](https://skillicons.dev/icons?i=python,java,html,css,js)](https://skillicons.dev)
+[![Linguagens de Programação](https://skillicons.dev/icons?i=python,flutter,html,css,js)](https://skillicons.dev)
 <br />
 
 ---
