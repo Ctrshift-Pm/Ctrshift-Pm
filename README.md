@@ -9,21 +9,21 @@ Sou motivado por minha curiosidade e pela busca constante por inovação e desaf
 <p align="left"> <a href="https://github.com/seuGithub?tab=followers"> <img alt="followers" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/seuGithub?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Siga&logoColor=white"/></a> 
 <a href="https://github.com/seuGithub?tab=repositories&sort=stargazers"> <img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/seuGithub?color=55960c&style=for-the-badge&labelColor=488207&label=Estrelas&logo=star"/></a> </p>
 
-### 🧰 Linguagens de Programação
+###  Linguagens de Programação
 
 [![Linguagens de Programação](https://skillicons.dev/icons?i=python,flutter,html,css,js)](https://skillicons.dev)
 <br />
 
 ---
 
-### 🛠️ Frameworks & Backend
+### Frameworks & Backend
 
 [![Frameworks e Backend](https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,gradle)](https://skillicons.dev) 
 &nbsp;
 
 ---
 
-### 🔧 Ferramentas & Software
+### Ferramentas & Software
 
 [![Ferramentas e Software](https://skillicons.dev/icons?i=git,bash,vscode)](https://skillicons.dev)
 <br />
@@ -31,6 +31,6 @@ Sou motivado por minha curiosidade e pela busca constante por inovação e desaf
 ---
 
 
-### 📊 Status
+### Status
 
 ![Ctrshift's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrshift-pm&show_icons=true&theme=gruvbox)
