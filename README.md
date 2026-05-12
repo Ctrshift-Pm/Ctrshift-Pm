@@ -34,9 +34,3 @@ Minha base hoje está concentrada em JavaScript/TypeScript, Node.js, React/Next.
 - Backend com Node.js e ASP.NET Core
 - Flutter para experiências mobile
 - Automação e exploração prática de IA
-
----
-
-### Status
-
-![Ctrshift's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ctrshift-Pm&show_icons=true&theme=gruvbox)
