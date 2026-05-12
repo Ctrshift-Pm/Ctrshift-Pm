@@ -1,36 +1,42 @@
-# Pedro Matheus
+# Pedro Matheus Chaves de Freitas
 
-**`Engenheiro de Software (Desenvolvedor/Estudante)`**
+**`Desenvolvedor Full Stack`**
 
-Sou um Engenheiro de Software movido pela paixão de aprender e evoluir continuamente na área de desenvolvimento. Meus projetos envolvem geralmente a criação de softwares, que são planejados e desenvolvidos do zero para poder resolver questões e problemas reais por meio de código. No momento, estou focado em aprimorar minhas habilidades em Python, e em explorar também novas áreas como Inteligência Artificial, Machine Learning (ML) e automação, sempre aplicando boas práticas de programação.
+Sou desenvolvedor full stack com foco em aplicações web e mobile, atuando na construção de soluções que conectam frontend, backend, integrações e infraestrutura. Tenho trabalhado principalmente com produtos dos segmentos imobiliário, odontológico e público, sempre buscando transformar necessidades reais em software utilizável.
 
-Sou motivado por minha curiosidade e pela busca constante por inovação e desafios, que impulsionam meu desenvolvimento profissional e me permitem criar e aplicar soluções eficientes e impactantes em cada projeto.
+Minha base hoje está concentrada em JavaScript/TypeScript, Node.js, React/Next.js, C#/.NET, Flutter e Docker, com experiência também em deploy, autenticação, banco de dados, serviços em nuvem e fluxos entre múltiplos sistemas. Também sigo explorando automação e IA de forma prática, sem perder o foco em fundamentos, clareza de implementação e evolução constante.
 
-<p align="left"> <a href="https://github.com/seuGithub?tab=followers"> <img alt="followers" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/seuGithub?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Siga&logoColor=white"/></a> 
-<a href="https://github.com/seuGithub?tab=repositories&sort=stargazers"> <img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/seuGithub?color=55960c&style=for-the-badge&labelColor=488207&label=Estrelas&logo=star"/></a> </p>
+<p align="left">
+  <a href="https://github.com/Ctrshift-Pm?tab=followers">
+    <img alt="followers" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Ctrshift-Pm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Siga&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ctrshift-Pm?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ctrshift-Pm?color=55960c&style=for-the-badge&labelColor=488207&label=Estrelas&logo=star"/>
+  </a>
+</p>
 
-###  Linguagens de Programação
+### Stack principal
 
-[![Linguagens de Programação](https://skillicons.dev/icons?i=python,flutter,html,css,js)](https://skillicons.dev)
-<br />
-
----
-
-### Frameworks & Backend
-
-[![Frameworks e Backend](https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,gradle)](https://skillicons.dev) 
-&nbsp;
+[![Stack principal](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,dotnet,cs,flutter,docker,postgres)](https://skillicons.dev)
 
 ---
 
-### Ferramentas & Software
+### Infraestrutura e ferramentas
 
-[![Ferramentas e Software](https://skillicons.dev/icons?i=git,bash,vscode)](https://skillicons.dev)
-<br />
+[![Infraestrutura e ferramentas](https://skillicons.dev/icons?i=git,github,firebase,cloudflare,vercel,vscode,bash)](https://skillicons.dev)
 
 ---
 
+### Foco atual
+
+- Arquitetura e integração de produtos full stack
+- Frontend web com React/Next.js
+- Backend com Node.js e ASP.NET Core
+- Flutter para experiências mobile
+- Automação e exploração prática de IA
+
+---
 
 ### Status
 
-![Ctrshift's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrshift-pm&show_icons=true&theme=gruvbox)
+![Ctrshift's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ctrshift-Pm&show_icons=true&theme=gruvbox)
